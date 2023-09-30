@@ -2,7 +2,7 @@
 <html lang="ja">
   <head>
     <meta charset="UTF-8">
-    <title>kadai_005<title>
+    <title>kadai_005</title>
 </head>    
   <body>
   <p>      
